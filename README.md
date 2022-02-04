@@ -18,9 +18,9 @@ Just let the program do its work!
 ***
 
 ### Modules Used
-1. Selenium
-2. time 
-3. Math 
+1. _Selenium_
+2. _time_ 
+3. _Math_ 
 
 
  
